@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Black0Bag.github.io</id>
     <title>网站名称</title>
-    <updated>2021-02-26T08:27:10.975Z</updated>
+    <updated>2021-02-26T09:01:49.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Black0Bag.github.io"/>
     <link rel="self" href="https://Black0Bag.github.io/atom.xml"/>
@@ -10,6 +10,87 @@
     <logo>https://Black0Bag.github.io/images/avatar.png</logo>
     <icon>https://Black0Bag.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 网站名称</rights>
+    <entry>
+        <title type="html"><![CDATA[下载小电影总卡在99.9%的原因，终于找到了]]></title>
+        <id>https://Black0Bag.github.io/post/xia-zai-xiao-dian-ying-zong-qia-zai-999de-yuan-yin-zhong-yu-zhao-dao-liao/</id>
+        <link href="https://Black0Bag.github.io/post/xia-zai-xiao-dian-ying-zong-qia-zai-999de-yuan-yin-zhong-yu-zhao-dao-liao/">
+        </link>
+        <updated>2021-02-26T08:47:37.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="https://Black0Bag.github.io/post-images/1614329373048.png" alt="" loading="lazy"><br>
+自从学会上网冲浪后，看电影、美剧都是下载回来看的，最最最讨厌的一个数字就是：99.9%。</p>
+<p>这是一个充满魔力的数字，曾让我狂躁、焦虑，甚至激动得想砸键盘锤电脑扔手机。<br>
+<img src="https://Black0Bag.github.io/post-images/1614329629326.png" alt="" loading="lazy"><br>
+比如下载学习资料或看动作大片，苦苦等待2小时，好不容易下到99.9%，以为2秒后就能享受大片的美妙，步入极乐世界。</p>
+<p>结果半小时过去了，进度条死死卡在99%，任你千兆光纤，专线宽带，愣是一丝不动，稳如泰山。<br>
+<img src="https://Black0Bag.github.io/post-images/1614329654745.png" alt="" loading="lazy"><br>
+再去检查路由器，狂按重启键，发现网络一切正常，网页秒开，唯独进度条上的99%永恒不变。</p>
+<p>原本等待美好事情发生的那股兴奋、激动之情，被彻底湮灭，转而为之的是愤怒、恼火、狂躁.....</p>
+<p>脑子里只想干一件事↓<br>
+<img src="https://Black0Bag.github.io/post-images/1614329676215.gif" alt="" loading="lazy"><br>
+为什么进度条总要卡在99%？为什么最后1%永远加载不动？</p>
+<p>今天，哔哥要为大家破解这一千古谜题，揭开背后不可告人的真相。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><img src="https://Black0Bag.github.io/post-images/1614329373048.png" alt="" loading="lazy"><br>
+自从学会上网冲浪后，看电影、美剧都是下载回来看的，最最最讨厌的一个数字就是：99.9%。</p>
+<p>这是一个充满魔力的数字，曾让我狂躁、焦虑，甚至激动得想砸键盘锤电脑扔手机。<br>
+<img src="https://Black0Bag.github.io/post-images/1614329629326.png" alt="" loading="lazy"><br>
+比如下载学习资料或看动作大片，苦苦等待2小时，好不容易下到99.9%，以为2秒后就能享受大片的美妙，步入极乐世界。</p>
+<p>结果半小时过去了，进度条死死卡在99%，任你千兆光纤，专线宽带，愣是一丝不动，稳如泰山。<br>
+<img src="https://Black0Bag.github.io/post-images/1614329654745.png" alt="" loading="lazy"><br>
+再去检查路由器，狂按重启键，发现网络一切正常，网页秒开，唯独进度条上的99%永恒不变。</p>
+<p>原本等待美好事情发生的那股兴奋、激动之情，被彻底湮灭，转而为之的是愤怒、恼火、狂躁.....</p>
+<p>脑子里只想干一件事↓<br>
+<img src="https://Black0Bag.github.io/post-images/1614329676215.gif" alt="" loading="lazy"><br>
+为什么进度条总要卡在99%？为什么最后1%永远加载不动？</p>
+<p>今天，哔哥要为大家破解这一千古谜题，揭开背后不可告人的真相。</p>
+<!-- more -->
+<p>技术原理导致</p>
+<p>关于进度条99%的问题，得从它的诞生说起。</p>
+<p>图形进度条最早出现在1979年， 由Mitchell Model在他的博士论文中提出。（进度条概念诞生于1896年，当时仅是一个概念，没有具体的应用）</p>
+<p>论文里他表示：进度条能在复杂的计算机环境中监视系统行为。</p>
+<p>说白了就是：进度条能直观展现电脑在做什么，做到哪种程度。<br>
+<img src="https://Black0Bag.github.io/post-images/1614329733231.png" alt="" loading="lazy"><br>
+正因为进度条能用最简单的图案和数字，表达电脑复杂的计算过程的特性，于是渐渐在各大操作系统流行起来，成为了电脑的经典标志之一。</p>
+<p>但问题来了，人不是电脑更不是神，再牛X的程序员也无法预测电脑什么时候完成工作。</p>
+<p>所以程序员开发出来的进度条，根本不能精准地反映出电脑情况，所谓的50%、80%、90%，仅是大概的数字，预测而已。</p>
+<p>可以说你看到的进度条，和实际的进度是两个东西。<br>
+<img src="https://Black0Bag.github.io/post-images/1614329751992.png" alt="" loading="lazy"><br>
+另外你在后台打开的软件，网页这些程序随时会占用资源，瓜分走处理器的运算量，也是影响进度条的因素之一。</p>
+<p>电脑没办法稳定均匀地运行，在波动随机性巨大的情况下，进度条能准才有鬼咧。</p>
+<p>例如你玩游戏处在加载界面，3分钟加载到99%，突然你打开另一个游戏，处理器资源被瞬间占满。</p>
+<p>哦嚯，恭喜你，你的游戏将长时间卡在99%，配置差点的电脑当场宣布卡死无响应。<br>
+<img src="https://Black0Bag.github.io/post-images/1614329775892.png" alt="" loading="lazy"></p>
+<!-- more -->产品经理的恶意
+<p>虽然进度条由程序员开发，但真正设计进度条的人，是产品经理，包括功能、样式、图案等。</p>
+<p>很多产品经理在设计进度条时，会特意要求程序员制作一个“虚假进度条”。</p>
+<p>可能你会问，产品经理为什么无缘无故搞个假东西骗人呢？</p>
+<p>给你们举个栗子，看完就懂了。</p>
+<p>假设现在有2个相同下载速度的进度条，A和B，它们的下载完成时间都是100秒。<br>
+<img src="https://Black0Bag.github.io/post-images/1614329852557.png" alt="" loading="lazy"><br>
+A是经过产品经理特殊调教的虚假进度条，它很套路，用了10秒下载到99%，最后1%花了99秒完成。</p>
+<p>B是老实进度条，没被调教，10秒加载到10%，100秒100%，一分不差。</p>
+<p>此时因为A前十秒加载到99%，而同样时间B却仅有10%，在强烈的对比下，大部分人会认为A比B更快，A比B更好用。</p>
+<p>虽然A最后耗费90秒才完成1%，但很多人出于不甘心的心理，反而会耐心地等待，为它打气。</p>
+<p>在优胜劣汰的规则下，用户自然纷纷把B卸载掉，只留下A，产品经理出于用户留存的想法，只能优先采用虚假进度条A。<br>
+<img src="https://Black0Bag.github.io/post-images/1614329866456.png" alt="" loading="lazy"><br>
+现在明白了吧，有时候不是进度条不准，而是产品经理在搞事。</p>
+<p>小提示：虚假进度条，常见于各类视频网站。</p>
+<!-- more -->下载完成后的块校验
+<p>相信小伙伴们用迅雷时，没少经历过下载到99.9%，突然0KB的情况。</p>
+<p>根据我多年的经验，导致这种情况发生的原因主要因为块校验的机制。<br>
+<img src="https://Black0Bag.github.io/post-images/1614329896916.png" alt="" loading="lazy"><br>
+迅雷下载采用P2P协议加速，P2P的优点在于有多个数据来源。</p>
+<p>每个下载过该文件的人，相当于一台服务器，当别人下载时自动在后台上传数据，提供速度。</p>
+<p>想想成千万人免费当苦力，为你一人上传资源，那是多壮观的场面。</p>
+<p>这便是热门资源下载永远满速，冷门资源仅有几KB的原因，也是你电脑时不时上传满载的真相。<br>
+<img src="https://Black0Bag.github.io/post-images/1614329911465.jpg" alt="" loading="lazy"><br>
+但缺点同样也有，因为数据来源多，质量参差不齐外加上传不稳定，容易导致文件乱码出错。</p>
+<p>因此迅雷定下了一个规则：在下载到99.9%的时候，会对文件进行块检验，如果某个块出现问题，无法重新下载，则会一直卡在当前进度不动。</p>
+<p>实际当进度来到99.9%的时候，文件早已下完，最后的0.1%仅是留给迅雷做文件检查用。</p>
+<p>如果哪天卡在99.9%不动，别傻楞去充白金会员，大声告诉你：钛金会员都没用！<br>
+<img src="https://Black0Bag.github.io/post-images/1614329923401.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新文章测试]]></title>
         <id>https://Black0Bag.github.io/post/xin-wen-zhang-ce-shi/</id>
