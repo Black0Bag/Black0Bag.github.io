@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Black0Bag.github.io</id>
     <title>网站名称</title>
-    <updated>2021-02-26T09:02:03.997Z</updated>
+    <updated>2021-02-26T09:04:47.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Black0Bag.github.io"/>
     <link rel="self" href="https://Black0Bag.github.io/atom.xml"/>
@@ -16,10 +16,10 @@
         <link href="https://Black0Bag.github.io/post/xia-zai-xiao-dian-ying-zong-qia-zai-999de-yuan-yin-zhong-yu-zhao-dao-liao/">
         </link>
         <updated>2021-02-26T08:47:37.000Z</updated>
-        <summary type="html"><![CDATA[<p><img src="https://Black0Bag.github.io/post-images/1614329373048.png" alt="" loading="lazy"><br>
-自从学会上网冲浪后，看电影、美剧都是下载回来看的，最最最讨厌的一个数字就是：99.9%。</p>
-<p>这是一个充满魔力的数字，曾让我狂躁、焦虑，甚至激动得想砸键盘锤电脑扔手机。<br>
-<img src="https://Black0Bag.github.io/post-images/1614329629326.png" alt="" loading="lazy"><br>
+        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://Black0Bag.github.io/post-images/1614329373048.png" alt="" loading="lazy"></figure>
+<p>自从学会上网冲浪后，看电影、美剧都是下载回来看的，最最最讨厌的一个数字就是：99.9%。</p>
+<p>这是一个充满魔力的数字，曾让我狂躁、焦虑，甚至激动得想砸键盘锤电脑扔手机。</p>
+<p><img src="https://Black0Bag.github.io/post-images/1614329629326.png" alt="" loading="lazy"><br>
 比如下载学习资料或看动作大片，苦苦等待2小时，好不容易下到99.9%，以为2秒后就能享受大片的美妙，步入极乐世界。</p>
 <p>结果半小时过去了，进度条死死卡在99%，任你千兆光纤，专线宽带，愣是一丝不动，稳如泰山。<br>
 <img src="https://Black0Bag.github.io/post-images/1614329654745.png" alt="" loading="lazy"><br>
@@ -30,10 +30,10 @@
 为什么进度条总要卡在99%？为什么最后1%永远加载不动？</p>
 <p>今天，哔哥要为大家破解这一千古谜题，揭开背后不可告人的真相。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><img src="https://Black0Bag.github.io/post-images/1614329373048.png" alt="" loading="lazy"><br>
-自从学会上网冲浪后，看电影、美剧都是下载回来看的，最最最讨厌的一个数字就是：99.9%。</p>
-<p>这是一个充满魔力的数字，曾让我狂躁、焦虑，甚至激动得想砸键盘锤电脑扔手机。<br>
-<img src="https://Black0Bag.github.io/post-images/1614329629326.png" alt="" loading="lazy"><br>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://Black0Bag.github.io/post-images/1614329373048.png" alt="" loading="lazy"></figure>
+<p>自从学会上网冲浪后，看电影、美剧都是下载回来看的，最最最讨厌的一个数字就是：99.9%。</p>
+<p>这是一个充满魔力的数字，曾让我狂躁、焦虑，甚至激动得想砸键盘锤电脑扔手机。</p>
+<p><img src="https://Black0Bag.github.io/post-images/1614329629326.png" alt="" loading="lazy"><br>
 比如下载学习资料或看动作大片，苦苦等待2小时，好不容易下到99.9%，以为2秒后就能享受大片的美妙，步入极乐世界。</p>
 <p>结果半小时过去了，进度条死死卡在99%，任你千兆光纤，专线宽带，愣是一丝不动，稳如泰山。<br>
 <img src="https://Black0Bag.github.io/post-images/1614329654745.png" alt="" loading="lazy"><br>
